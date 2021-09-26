@@ -32,8 +32,7 @@
 		"ascii",
 		"unicode",
 		"border",
-		"text",
-		"json"
+		"text"
 	],
 	"devDependencies": {
 		"ava": "^3.15.0",
